@@ -1,2 +1,1 @@
 # Android6.0PermissionsDemo
-基于google的easypermissions小demo
